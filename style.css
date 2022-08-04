@@ -1,5 +1,5 @@
 html{
-    background-color:rgb(148, 148, 148);
+    background-color:rgb(21, 32, 100);
     color:rgb(0, 0, 0);
 }
 h1{
@@ -9,8 +9,8 @@ h2{
     color:rgb(0, 0, 0);
 }
 h3{
-    color:rgb(135, 0, 0)
+    color:rgb(0, 0, 0)
 }
 p{
-    color:darkred;
+    color:rgb(0, 0, 0);
 }
