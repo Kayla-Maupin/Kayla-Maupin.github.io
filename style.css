@@ -1,11 +1,16 @@
 html{
-    background-color:rgb(26, 42, 91);
-    color:rgb(255, 255, 255);
+    background-color:rgb(148, 148, 148);
+    color:rgb(0, 0, 0);
 }
 h1{
-    color:rgb(138, 137, 137);
+    color:rgb(0, 0, 0);
 }
 h2{
-    color:rgb(133, 134, 133);
-
+    color:rgb(0, 0, 0);
+}
+h3{
+    color:rgb(135, 0, 0)
+}
+p{
+    color:darkred;
 }
