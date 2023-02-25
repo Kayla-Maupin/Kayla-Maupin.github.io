@@ -1,0 +1,43 @@
+.wrapper {
+  display: grid;
+  place-items: center;
+  flex: 1;
+}
+
+.grid {
+ display:grid;
+ grid-template-columns: repeat(3, 1fr);
+ gap: 10px;
+ background-color: rgb(255, 255, 255);
+ width: 320px;
+ height: 320px;
+}
+
+
+
+/**
+ *| --- 320 --- |
+ * [?] |10| [?] |10| [?]
+ * - - - - - - -
+ * [] | [] | []
+ * - - - - - - -
+ * [] | [] | []
+
+  * 3x + 20 = 320
+       - 20   -20
+       3x = 300
+       x = 100
+ */
+
+ /* MDN set font size */
+
+
+.cell {
+  display: grid;
+  place-items: center;
+  width: 100px;
+  height: 100px;
+  background-color:rgb(43, 56, 69);
+  font-size: 80px;
+}
+
